@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 
 
 Project Deployment URL - https://virtual-r-phi-eight.vercel.app/
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/b52b9b8e-36f4-4d96-a9ac-5e03f0c437a0" />
